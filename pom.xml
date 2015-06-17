@@ -27,6 +27,10 @@
 			<id>v8Unpack4j</id>
 			<url>https://raw.github.com/MinimaJack/v8Unpack4j/mvn-repo/</url>
 		</repository>
+		<repository>
+			<id>BSRepo</id>
+			<url>https://raw.github.com/MinimaJack/com.minimajack.v8.bs.format/mvn-repo/</url>
+		</repository>
 	</repositories>
 
 	<developers>
