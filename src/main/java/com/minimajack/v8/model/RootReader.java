@@ -13,8 +13,7 @@ import com.minimajack.v8.metadata.root.V8Root;
 import com.minimajack.v8.utility.V8Reader;
 
 public class RootReader
-    extends AbstractReader
-    implements Runnable
+    implements AbstractReader, Runnable
 {
 
     /**
